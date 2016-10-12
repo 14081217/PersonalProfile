@@ -1,0 +1,45 @@
+{
+	"groups": [
+		{
+			"keys": "bgImage,egretIcon,猫3_jpg,猫1_jpg,猫TU_jpg,猫TU_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bgImage"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egretIcon"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description"
+		},
+		{
+			"url": "assets/猫3.jpg",
+			"type": "image",
+			"name": "猫3_jpg"
+		},
+		{
+			"url": "assets/猫1.jpg",
+			"type": "image",
+			"name": "猫1_jpg"
+		},
+		{
+			"url": "assets/猫TU.jpg",
+			"type": "image",
+			"name": "猫TU_jpg"
+		},
+		{
+			"url": "assets/猫TU.png",
+			"type": "image",
+			"name": "猫TU_png"
+		}
+	]
+}
